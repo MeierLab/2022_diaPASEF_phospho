@@ -8,7 +8,7 @@ Reference:
 
 ## Where to find the data
 
-The mass spectrometry raw files and associated processing output files underlying this study have been deposited to the ProteomeXchange Consortium via the PRIDE partner repository with the dataset identified [PXD033904](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD033904). 
+The mass spectrometry raw files and associated processing output files underlying this study have been deposited to the ProteomeXchange Consortium via the PRIDE partner repository with the dataset identifier [PXD033904](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD033904). 
 
 
 ## Installation 
